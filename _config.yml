@@ -1,0 +1,41 @@
+# Site settings
+title: 식품정보 나누기
+description: "식품에 대한 법령,이슈,업체등을 공유하는 블로그"
+url: "https://foodinfo.club"
+author:
+  name: "song"
+  email: "sese3024@daum.net"
+  url: "https://foodinfo.club"
+
+  # 블로그 disqus shortname
+disqus:
+  shortname: foodinfo-club
+
+# Build settings
+baseurl: /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
