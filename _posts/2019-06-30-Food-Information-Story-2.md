@@ -8,7 +8,7 @@ image:
   feature: chef.jpg
 categories:
 - 식품인 이야기 두번째
-  tags:
+tags:
 - 식품전공 
 - 식품영양학과
 - 식품공학과
