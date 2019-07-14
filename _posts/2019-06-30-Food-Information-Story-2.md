@@ -7,7 +7,6 @@ permalink: /Food-Information-Story2/
 image:
   feature: chef.jpg
 categories:
-
 - 식품인 이야기 두번째
   tags:
 - 식품전공 
