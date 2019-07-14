@@ -18,7 +18,7 @@ html, body {
       font-size: 1em;
     }
     &:hover {
-      background-color: #0A82FF;
+      background-color: lighten($main-color, 5%);
     }
   }
   span {
