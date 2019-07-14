@@ -5,7 +5,7 @@ date: 2019-06-30 10:30:00 +09:00
 author: "ssong"
 permalink: /food-information-story/
 image:
-  feature: food.png
+  feature: university.jpg
 categories:
   - 식품인 이야기
 tags:
