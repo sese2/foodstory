@@ -1,5 +1,6 @@
+---
 layout: post
-title: 식품전공 이야기 
+title: 식품전공 이야기2
 date: 2019-07-08 10:30:00 +09:00
 author: "ssong"
 permalink: /Food-Information-Story2/
@@ -7,16 +8,17 @@ image:
   feature: chef.jpg
 categories:
 
-  - 식품인 이야기 두번째
-tags:
-  - 식품전공 
-  - 식품영양학과
-  - 식품공학과
-  - 조리학과
-  - 외식상품학과
-  - 대학 전공
+- 식품인 이야기 두번째
+  tags:
+- 식품전공 
+- 식품영양학과
+- 식품공학과
+- 조리학과
+- 외식상품학과
+- 대학 전공
 
 description: 식품전공자가 식품회사를 다니면서 겪는 일들과 그 밖의 식품관련 법률과 최신 뉴스에 관한 블로그 입니다.
+---
 
 ## ## 조리학과는 무엇을 할까?
 
