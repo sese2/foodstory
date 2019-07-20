@@ -27,7 +27,7 @@ TV에 많은 셰프들이 나오고 그들의 퍼포먼스와 멋진 모습에 �
 
 학생들은 지금은 어떤 모습일지 사뭇 궁금하다 진학에 대해서 후회 하지는 않는지 처음과 같은 최고의 선택이었을지... 조리사는 과연 칼질만 잘하면 될까?
 
-![chef](C:\Users\sese2\foodstory\img\article\food-story-image-2-1.jpg)
+![chef](https://lh3.googleusercontent.com/teuTxk7f0Ycb9o0iACx3pjkPrR3nADooeXZMss8U_wYE0DDuRNf9la5mXCvpZiSz3LvOyd6-KidJVuEXses6FCjeMLtk8En4bKGBYEJETd2Ts93qDd3iuhbsq-tSu-WWjti1UwFXga1JcyBa-GjFytnqr6--JkH2kQ2Ds3kUbfWHj2FERpqSVNUpQpgXRrY2aFzr699gnakb5VMVTuMPt_tnMzvtCb6VcOiNlPoekGNnq0iZZtbx8ZWpjwiceifxzN7aS2zkOV4wqG2iI5myfkBmBwkdfDtiTNRCZHf-UIpW9IFMeV1jSCwY9G1J24KKutorHWFcnLDr8UZCSETsav2izYPj-Xg5SIXaZbOMjUEhZeCsUpJ5snZhZilu4WI_-bgpDsHqAtNvwWkxG6t_JR50Pwek1UmxA6upFj8qhYJoAU4v5JcVLbBq70haxQB4ITrc_Kg5_tQZ68XbGEf84EZwtqLtYhZtv0YIgynHsug1CVOlABc1KkSLNqJQz5DFRfxO4QaLY9mOzZ98greQzeURTB8AL6kNoCubDe90Ptfh_elVxzbLYV97KPFOz5iBXX4LlkPPFhQObGNkQUOUBdhFqD3dqpc7IvcZqnx5PWFgCi2NLiLMvtPB-5TeAH_5UaOKDBxNdYeqZcw-8mfPn66u0ZW44A=w1280-h853-no)
 
 
 
@@ -46,7 +46,7 @@ TV에서 보이는 셰프 또는 파티쉐는 굉장히 멋있는 모습으로 �
 
 * 개인적으로는 건축학을 하던 사람이 요리를 멋있고 맛있게 만든다고 생각한다. (이해도가 높아 나중에 직업을 전환시에도 정말 빠르게 적응한다.)
 
-![](C:\Users\sese2\foodstory\img\article\food-story-image-2-2.jpg)
+![](https://lh3.googleusercontent.com/1vz_09_1KzOk4TXCCS3VgnPjtasDfrtz8Cnzs_BWjg9KlYGrpUxXFfZ8Jg_dbQxmfs5bo5ZYLYfmODATWXIizUHA20g8YP-RPHHNVlrjIJuqspCLz_U_QVaVWp6q_rQosA2zFl3gOdrzB6cJM_kIwyj19hz5A17Zre1VKFyzii8c4bWc9Vgmu3kioSaznBlefEjSSX4aPebFCuOuoGicLtzjO7PddVt3aOdhDF5DRIGR9WxoD4oQ-W7F9ZR5QyIhJjGiTAmVw95woICNMlmW84_QmywZHCNYB7DFVCGy1SmPsaIPifmev3SqiMlpSC-qmO1qnf_jZOS1LQiqP4Drv62RAbPLIZ0TYDo8Rz0sBsAQ0xP6EINYaQnPbgV8OGw4j354EVnrqNR_VeSZlP3iOv36EpFEyovmDeYrLt5M3SkOwc8dryNJfVN1DWl50VQ1GzxGP9op2N88P9XXdtqUJ0nRjHRssO40w4dDV4W8Bxh1xrtOq89Cu0ceoHYdXdrXhDokYRwraqIub-6Phqj3Wji_KTj1vjc7WO7qA6H3WDl80dl_JQveLEmn5LJ7cFkyOnPu1ByDO617OVjggSJ4xl43FuubqYWYDS3Txo8BK-slyl-6QCwPxCm7qY2F7Ik051dlykuy46nocQtJIBrvqcM3gKzRNA=w1280-h853-no)
 
 조리사는 과학 외에도 수학도 필요하고 (제과/제빵은 과학과 수학으로 만들어진 결정체이다.) 새로운 조리법에 대해서 알고자 공부하려면 영어도 필요하다. 
 
