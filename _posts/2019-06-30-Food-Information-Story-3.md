@@ -5,7 +5,7 @@ date: 2019-07-19 10:30:00 +09:00
 author: "ssong"
 permalink: /Food-Information-Story3/
 image:
-  feature:nutritionist.jpg
+  feature: nutritionist.png
 categories:
 - 식품인 이야기 세번째
 tags:
@@ -86,9 +86,7 @@ description: 식품전공자가 식품회사를 다니면서 겪는 일들과 �
 
 바로 다이어트 업체이다. 쥬비스 등 최근 많이 생기는 다이어트 업체에서도  식품영양학과 졸업생 또는 영양사의 지원을 많이 반기고 있다. 
 
-
-
-![균형 잡힌 영양 아이콘](C:\Users\sese2\foodstory\img\article\nutrition.jpg)
+![영양균형](C:\Users\sese2\foodstory\img\article\nutrition.jpg)
 
 
 
