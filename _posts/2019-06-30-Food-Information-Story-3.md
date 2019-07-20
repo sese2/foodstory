@@ -5,7 +5,7 @@ date: 2019-07-19 10:30:00 +09:00
 author: "ssong"
 permalink: /Food-Information-Story3/
 image:
-  feature: .jpg
+  feature:nutritionist.jpg
 categories:
 - 식품인 이야기 세번째
 tags:
