@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 식품 트렌드 이슈
-date: 2019-08-07 10:30:00 +09:00
+date: 2019-08-0810:30:00 +09:00
 author: "ssong"
 permalink: /Food-Information-Story5/
 image:
-  feature: coffee.jpg
+  feature: coffee.png
 categories:
 - 식품 트렌드
 tags:
@@ -55,7 +55,30 @@ description: 식품 트렌드 이슈
 4. 탄수화물이 많은 채소
 5. 식물성 지방과 트랜스 지방
 
+![곡물 아이콘](https://lh3.googleusercontent.com/J76YspQ0osT1Li2hqrUZoHK4d-8i1bjH3DTj_LtqcmsKEuLfv3Xh3TRJZmdL2becPGRJsP8VN832b9mUTPKMcEf-BHHm4GM5vgZFtCiakFx6GhmQxj9yGZezd0aVabiTZOcl1JpzE8GkJ18c7KKzhxBxTzXd-Vo1XXSTmCuQ0GLoSVYlV67pXi1PYgIIJmMNqMhgtZ2TvS3ZfFa3HOhWCsz3gDOcWHcMJ7-M_BFhSqm-LsblTCLdktQQK9lIXYR6Li_YN9MohBXYIa1auErj-tHC8nePZWddUHN80gnu1VG0yaIedrHEt2h_KebbUMJ_C9sqmpptH8jEFwydPd_NXYnEEcZMmk-x_M_mWLakGWUWoMUdNLrnqUqAPn61bqbujkhJI3ei9lcHF9APRBt8LJMUpYOyIK6CJwhDBMc-v4JFJICe3f7MU6HuxjSNyAZnPeT5mHP0-al6w9Fw9g3gFg6O1oSlbZvmmzy3NledoMyhu4_FcSUJwTw6SG3f8TQ0iU0_SAUZST_pNRgx6IshtRbB1qBAZNaWcAs-KbfCcWoGHu0oOYuvgvv9-p9bNzrM1Vqyj3jA_6c8vis04wFvcLLX2h2NJb8NAg9ATEMYCMJ_EnjuA8zo4oEtY4v8HhfVjMt4clsX4EY06x0Mv1FlNitMPjDsSA=w640-h426-no)
+
 
 
 반대로 키토제닉 할 때 마음껏 먹을수 있는 음식은 아래와 같다. 
+
+1. 모든 종류의 고기
+
+2. 모든 생선과 해산물
+3. 우유를 제외한 모든 유제품과 계란 (당이 들어간 요거트 제외)
+4. 땅위에서 나는 초록빛 채소
+5. 다양한 지방
+6. 견과류
+7. 일부 과일 (아보카도 추천, 베리류)
+
+![곡물 아이콘](https://lh3.googleusercontent.com/OEkWLgY5g_gphfFvSUaeDDu7M_Lc-R6fusVzPvFBSvt4I-fsanBH0w2JZvPg00h9W3aTtC3yenkkXTMJulpTTUlUve_9srQz1fah8WiJRpMcEGhPhtV7Vcl7JJTIEsQ1edrC7eGRvo2IyGwrhVZuXfirrR4wDCzYZgZuNR6vM1TZ3xvuxp7WIhY2CM3qR52bNB4ruCTeH1HWW9IMYmvnnLgvtVspBbcPsJ-gcaTlSsECu-klttDkgzKlQuXNfLBlJF5NXuH4m19k8MOWPAgVVSJ63pqQfVPNhhB-_ZrQxGtPy017nql0u9MrUv-aafbQBPi9KltN4mOXmad9UhFvBd1WHGMOscvqtgDGMzl6gQz_-NWbYfsLzl3NQDPeTa5JXbvqRcXBjVF-oE4W8TqQasBBk9qIj3FRsVOV0SehWW7guc84mXDveB7D-shPK0yVPHI7kckve-3VjRUhpoGQZPMuCd8gEU2Mn8-pHGsOcvP-KPascPNSC4v7gCTnd7zEgYXX1ogFsdDhGBxAvRGqgjA3yCzIQwHm_x0CRCT5XlKT2mDy6DaDzhkbQFlPPoiqgzIIiekoGzzp181onvNm1VH_DnK563zk4XHTCwQtDQwNItNBOgEklT5JTUDlweRxOJ2H_BcOi0tehXnAWzTwSDHl7h-tXw=w640-h426-no)
+
+
+
+이후 키토제닉에 대한 설명은 다음에 한 번 더 자세하게 풀어보려고 한다. 
+
+다만, 오늘은 과대광고 폭탄을 맞은 방탄커피에 대한 설명의 서두로 글을 작성하였다. 
+
+방탄커피 기사전에 방탄커피가 무엇인지는 알고 가자. 
+
+내일은 방탄커피가 무엇을 잘못했는지 알아보자.
 
