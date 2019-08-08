@@ -22,9 +22,9 @@ description: 식품 트렌드 이슈
 
  일단 방탄 커피가 무엇일까?
 
-![방탄커피 아이콘](https://lh3.googleusercontent.com/uMNQcz1AR7XnqQZcBvo7nfCdPv-_xzbY7dpngh1ALtYoKOTazzkS_uO2WaYSJW9HhntlTAxFNvkO6JDILRXmciQ4v-cElpUn0vYUarAEIqeZWu6TUPNypA5aYCuTDbiAEFlVIJkRTvFKuq2yz8pWH4jlpfqIZ-C6ZcdwbJA-WoGxQ7yjp2-KBGEeAVzTtuRNrdMJs2FmnIiVZMkgWXbh1-u8fUoRS2UqyBzHuQTm48t_psED-Y4c8gPqAxxKhSsPFojWKXfCFKjrJLWz98xnROvgI50_EIRfN4wu8IHojwJ1Ioe8YCg2rD8r0qerKGZfCgUiteG8o-fcI1bdgByIAqQ64oylVVXV5NYTqNo4GVfLouSa_iWq5K0sWOmnuR_UG1cQP9OagW4qMgP1Dz8C8xqUceTOn9FRmDKriqOIHB5LCf00y-8pslsqsynUVv4GTBqjsNjvQ9YNiOeg8_r3XnpgHXrhtAbGOtWkuLAGOzGTcYPm_3_hm77mtx5k5PSU3J-juZmyTgWG1bW15DViBKWKRqrw-vSAE-n4P5uzt8xZncHsSHDHd71BsrBKZV1MgubZoJtQjPReRll6ujOquhyMIa0N0tSBvd3N1ks-Td1a3k-ugwi47wfFAmOjY2wSmfcCxp3gqbOclIXiqfnuUJLPCsjA8Q=w330-h220-no)
+![최강식사 책](https://lh3.googleusercontent.com/uq2rxYvgwXAhrih0HInVcfUqikh1XTGGIfdaRBGeZkeah4SsEMaBRd0_3RLEZruAMXLn3czOFIurMmQGicIgUDAuUNOLPcse7Ezi2AY0TBJg7YCIYKYPU3sGJa53tyvr--ZJaqF0Z3x1XsuwMV0jH-Kn_tKQQWKImcFUr0NCVdWrRLfYvToThG5R1sW1iB80zBOKXLCMG5tWaPpIQGqGSf3StaqV0uxhstDz87dSZQdIey78g_iCx1l7qMStDcedUxgRXBfxzBzlShcPe_P1L0_hB_wb6Lukg6tcyeTTdOEztLDfWg0mBJZ3vuFRooE0gmeDyV6A_ztFV25GtRJCkPOJhYaMHWRuzMRJcYEMWr1iKFu_u1TfoARAxRESfxQE5LWQWz3-IDFm3JPlGnkW75DrB73Qyyc9aEx0Mxo-WB0P5GrrQ6hvl_07maynhvq4gTZ38yHSwcd2dhdJ-AqpHl2uTp-82BRHhvpm6esnw-rZMqxdF8XiMOAxjH4Vk9xFJEmAuT0xrI6jrvOS-F-B7Ug0yrNTh4O8p7DSZGpJMuFDcKeZo_KI-kt3x9hZroEZ8D228sKxHCsNSYFktXWnCibLW2ZiMa2XCSr9Y578T8yH4Bey0pUu9UVSCGMkV2snqfEyCGpypg5aTao_iBkrEDHK8Ti1NayTDUdc1jxiP8dnYgb2XHIE2xRY4dKY9QZccZAt52w17lwRXBcr0_IhoeB_=w488-h723-no)
 
-​                                                         * 방탄 커피 예시 이미지 
+​                                         
 
   방탄 커피는 '최강의 식사'라는 책을 통하여 소개가 된 것으로 아래와 같은 내용으로 이름이 붙여 졌다. 
 

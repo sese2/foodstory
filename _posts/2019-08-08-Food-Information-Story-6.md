@@ -53,8 +53,6 @@ description: 식품 트렌드 이슈
 
   \- 오히려 버터 등 포화지방을 **과다** **섭취하면** 콜레스테롤 수치가 증가해 동맥경화, 혈관 손상, 심혈관 질환을 일으킬 수 있어 주의가 필요합니다.  
 
-![방탄커피 아이콘](https://lh3.googleusercontent.com/uMNQcz1AR7XnqQZcBvo7nfCdPv-_xzbY7dpngh1ALtYoKOTazzkS_uO2WaYSJW9HhntlTAxFNvkO6JDILRXmciQ4v-cElpUn0vYUarAEIqeZWu6TUPNypA5aYCuTDbiAEFlVIJkRTvFKuq2yz8pWH4jlpfqIZ-C6ZcdwbJA-WoGxQ7yjp2-KBGEeAVzTtuRNrdMJs2FmnIiVZMkgWXbh1-u8fUoRS2UqyBzHuQTm48t_psED-Y4c8gPqAxxKhSsPFojWKXfCFKjrJLWz98xnROvgI50_EIRfN4wu8IHojwJ1Ioe8YCg2rD8r0qerKGZfCgUiteG8o-fcI1bdgByIAqQ64oylVVXV5NYTqNo4GVfLouSa_iWq5K0sWOmnuR_UG1cQP9OagW4qMgP1Dz8C8xqUceTOn9FRmDKriqOIHB5LCf00y-8pslsqsynUVv4GTBqjsNjvQ9YNiOeg8_r3XnpgHXrhtAbGOtWkuLAGOzGTcYPm_3_hm77mtx5k5PSU3J-juZmyTgWG1bW15DViBKWKRqrw-vSAE-n4P5uzt8xZncHsSHDHd71BsrBKZV1MgubZoJtQjPReRll6ujOquhyMIa0N0tSBvd3N1ks-Td1a3k-ugwi47wfFAmOjY2wSmfcCxp3gqbOclIXiqfnuUJLPCsjA8Q=w330-h220-no)
-
 사실상 방탄커피는 저탄고지(키토제닉)을 하는 사람들 때문에 유행했던 것이고 다이어트 커피로 알려지게 되었다.하지만 키토제닉 다이어트를 하는사람들에게는 필요하지만, 일반 식사를 하는 사람이 하루 한잔을 먹는다면 한 잔에 342kcal의 칼로리를 가진 고칼로리로 그냥 살이 찌기 마련이다. 
 
 식약처에서 단속한 부분은 매우 훌륭하다고 생각한다. 분명하게 건강기능식품이나, 다이어트 상품으로 소비자의 오인혼동을 불러 오는것은 식품 산업 전체에 악영향을 끼치는것이 분명하기 때문이다. 
