@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 식품 트렌드 이슈
-date: 2019-08-08 10:30:00 +09:00
+title: 방탄커피가 무엇을 잘못했을까?
+date: 2019-08-07 10:30:00 +09:00
 author: "ssong"
 permalink: /Food-Information-Story5/
 image:
-  feature: bulletproof coffee.jpg
+  feature: coffee.jpg
 categories:
 - 식품 트렌드
 tags:
@@ -19,56 +19,73 @@ tags:
 description: 식품 트렌드 이슈
 ---
 
-##  방탄커피가 무엇을 잘 못했을까? (2) 
+##  방탄커피가 무엇을 잘 못했을까? (1) 
 
- 식품의약안전처의 ' 온라인 건강안심 프로젝트'중 하나로 최근 sns 중심으로 건강기능식품
-
-또는 다이어트, 화장품 상품들이 점검을 하였고 그 결과 3,648건을 점거하여 허위.과대광고 등으로
-
-725건을 적발한 기사가 나왔다. 
-
-  ※ 온라인 건강 안심 프로젝트 : **소비자 밀접** **5대 분야**(다이어트, 미세먼지, 탈모, 여성건강, 취약계층) 관련 제품에       대한 허위·과대광고 집중 점검
-
-아래는 식품의약안전처 조사 발표 내용 중 일부 이다. 
-
-식품 분야의 과대 광고는 2,170건 점검 결과 373건이 나왔고, 주요 적발사례는 ▲**체험기**를 이용 등 **소비자** **기만** 광고(150건) ▲일반식품의 **다이어트** **효능․효과** 표방 광고(150건) ▲붓기제거․해독효과등 **객관적** **근거가** **미흡**한 광고(73건) 등이다. 
-
-
-
- **<** **식품분야** **>**
-
- **1)** **체험기** **이용** **광고**
-
-   ※ 일반쇼핑몰의 광고에는 과대광고가 없으나, SNS에 과대광고로 적발된 사례임
-
- ![방탄커피 적발 아이콘](https://lh3.googleusercontent.com/_kIKCQozr8q-MtrTkY1YtnIzZSLw2dVhHuyJgtUN5qNblWqF058DEdEaNwqoFjJbCGadDmIbIByExEDC9l6VaqUUK0ZVRu7RZC5eSs7dYQxhuXyhk6KX9HUDAa8EieoS3m19Vp9qZRq0jA7MvS3F-Yr9mf_SCQ3z2p7UZ_a9NFq-COd68Ddl2GB3C6KhEPPV9MwUVBD-joH5vDZ8aR2H7RZ-ZAYis9O-r6fDJrqyVxWxvIA9YQrLq8UTkwTAt_fg95291xNJsXi70AJ0rsLMrcURbnCT7_GjYSkquxW-6OCb4tlLiosXrQLgN-P0Ps0kZOyY43w8UY9TZHB75RASP9BkJwYvFjDAn8gaAGWpv-yLtMbM52jNgITBu3E7B7FsuBQFjWrAERxRaNoiw1-2UPQnPH1wLf68K-R_HyirzdCzcHGeFNackAtz-2OJFFrRGvJRIKw8omA5FrgyuSHoKKRcrTnmqzg7dLBEYY8mqifUV76HXiYsRtfQwr6DO6eNjEfnjSx597F1tkb0WGNHDqV9RuULOYe08PZWyxi2cCfbrBPltaF024RNb_kXklKeG5Uz8DMaCGG-SaC5Caag0QTenBlCG2Yoml077ajLSGOx1lptjE6zIFP9quI7eYU74lUETgvo4wF-icfNoi6dS7MnczL56g=w723-h929-no)
-
- 
-
- 2) **다이어트** **효능․효과** **표방**       ![방탄커피 아이콘](https://lh3.googleusercontent.com/55bQNWY2ZSB5l83kLeIZ4vqqj8r66Bq-0-YabGObG8Bs2EjZHdcOtB4I42vluHRwXJkxMe2Alk5J3ix83MtlHmvsgmMCGeWdgKxLhJb6vYvY2ZxCapPEufFYclRGjfhA5bnoEU-7CgUErp81RsYb5mbDOhk4Ux8GSLaoAmBWjS1m3uO0a8ZGMN2HpCeq30PAQlOOhEYJVejUGLa66vxt12vV6elHPM25uR5OWHLPoZafWU04oCruQH6eOJMJ3nKE7ofegLf-y2jhCUjpSbFXdc2u4NpKwDM7Jv14OU13sI6PCsKMuir2gyct_Hnq-aSV9CBlzu7SROE7Xzxl3puZ9tNDgEiTtXJbw3BIUOtEjCyyfFwT4G6eXnEf8-NzcyRKe8G3kuMUmLs6q0J0Zc4XqmdNzJ2_f94sGJikDoGJKkfvAr6xZ2YFkstMtanaaVIMw0JvuqEtmc6j5DTvZIpkXwmgSXGbIGPI8o6TWQKNFFLtlLWmR7uVogO-cN7iTqC0uWit4UuwNxm5t4socmTinsyLR1QiRR5HHkBChM2nLaFok9K0AU81-b9K4EuYGbP-bNJc-fcIWmPPLIkbpSnhfxGfYgUH9yd8S1_92LAHYamoM0Cl5TwG4KN3AFPtBNFsel_BU7WJPLOU1ejgJg0b7A0wNdmMHg=w883-h1079-no)
-
-
-
-최근 언론매체와 온라인쇼핑몰에서 인기가 있는 **‘방탄커피‘** 제품의 **’저탄수화물** **고지방** **다이어트‘** **체중조절** **효능·효과** **광고**에 대하여 **민간** **광고** **검증단의** **검증** **결과**는 다음과 같습니다.
-
-  \- **저탄수화물** **고지방** **식이요법****(****저탄고지****)**은 일시적으로 포만감을 주고 식욕을 억제하는 효과를 가져올 수는 있지만, 장기적으로 지속할 경우에는 심각한 건강문제와 영양문제 등이 발생할 수 있습니다.
-
-  \- 오히려 버터 등 포화지방을 **과다** **섭취하면** 콜레스테롤 수치가 증가해 동맥경화, 혈관 손상, 심혈관 질환을 일으킬 수 있어 주의가 필요합니다.  
-
-
+ 일단 방탄 커피가 무엇일까?
 
 ![방탄커피 아이콘](https://lh3.googleusercontent.com/uMNQcz1AR7XnqQZcBvo7nfCdPv-_xzbY7dpngh1ALtYoKOTazzkS_uO2WaYSJW9HhntlTAxFNvkO6JDILRXmciQ4v-cElpUn0vYUarAEIqeZWu6TUPNypA5aYCuTDbiAEFlVIJkRTvFKuq2yz8pWH4jlpfqIZ-C6ZcdwbJA-WoGxQ7yjp2-KBGEeAVzTtuRNrdMJs2FmnIiVZMkgWXbh1-u8fUoRS2UqyBzHuQTm48t_psED-Y4c8gPqAxxKhSsPFojWKXfCFKjrJLWz98xnROvgI50_EIRfN4wu8IHojwJ1Ioe8YCg2rD8r0qerKGZfCgUiteG8o-fcI1bdgByIAqQ64oylVVXV5NYTqNo4GVfLouSa_iWq5K0sWOmnuR_UG1cQP9OagW4qMgP1Dz8C8xqUceTOn9FRmDKriqOIHB5LCf00y-8pslsqsynUVv4GTBqjsNjvQ9YNiOeg8_r3XnpgHXrhtAbGOtWkuLAGOzGTcYPm_3_hm77mtx5k5PSU3J-juZmyTgWG1bW15DViBKWKRqrw-vSAE-n4P5uzt8xZncHsSHDHd71BsrBKZV1MgubZoJtQjPReRll6ujOquhyMIa0N0tSBvd3N1ks-Td1a3k-ugwi47wfFAmOjY2wSmfcCxp3gqbOclIXiqfnuUJLPCsjA8Q=w330-h220-no)
 
 ​                                                         * 방탄 커피 예시 이미지 
 
-사실상 방탄커피는 저탄고지(키토제닉)을 하는 사람들 때문에 유행했던 것이고 다이어트 커피로 알려지게 되었다.하지만 키토제닉 다이어트를 하는사람들에게는 필요하지만, 일반 식사를 하는 사람이 하루 한잔을 먹는다면 한 잔에 342kcal의 칼로리를 가진 고칼로리로 그냥 살이 찌기 마련이다. 
+  방탄 커피는 '최강의 식사'라는 책을 통하여 소개가 된 것으로 아래와 같은 내용으로 이름이 붙여 졌다. 
 
-식약처에서 단속한 부분은 매우 훌륭하다고 생각한다. 분명하게 건강기능식품이나, 다이어트 상품으로 소비자의 오인혼동을 불러 오는것은 식품 산업 전체에 악영향을 끼치는것이 분명하기 때문이다. 
+블랙커피에 무염버터, MCT오일(코코넛오일에 함유되어 있는 65% 전후의 중쇄지방산을 정제과정을 통해 뽑아낸    오일)을 넣어 만든 커피로, 총알도 막아낼 만큼 강한 에너지를 얻을 수 있다는 뜻에서 붙은 이름이다.[네이버 지식백과]  
 
-나조차도 sns를 사용하면서 이러한 광고들에 경악한적이 한 두번이 아니기 때문이다. 
+ 방탄커피는 미국 실리콘밸리의 사업가인 데이브 애스프리에 의해 처음 알려졌고,레시피는 양질의 커피콩으로 진하게 내린 따끈따끈한 커피 1잔 (커피콩 37g ,물 273ml)목초로 먹인 소의 우유로 만든 무염 버터 1큰술, MCT 오일 또는 코코넛 오일 1큰술을 넣고 마시면 된다. 
 
-하지만 무조건 방탄커피가 나쁘거나, 잘못된 것이 아니고 소비자에게 잘못된 정보를 주고 과하게 과장광고를 한부분이 잘못된 것이지 방탄커피가 사실상 잘못한 것은 없다. 
+방탄커피 자체는 키토제닉을 위해 만들어진 식단 중 하나이다. 
 
-기사에서도 이러한 부분을 잘 걸러서 써준다면 소비자의 오해가 더 커지지 않을 수 있다고 생각한다. 
+키토제닉이란? 
 
-기사도 가끔은 과대 광고를 하는 경우가 있기 때문이다.
+- 저탄수화물 고지방 식이요법(LCHF)로 탄수화물 제한식을 하는것이다. 키토제닉은 일일 탄수화물 20g미만으로 탄수화물을 엄격하게 제한할수록 케토시스 상태 진입이 빨라 진다고 한다. 
+
+   *  케토시스(키토시스)란? 
+
+      몸에서 지방을 연소할 때 발생하는 결과물을 '케톤체'라고 하며, 몸에서 지방을 에너지원으로 사용하여 '케톤체'가 형성되는 상태를 '케토시스(키토시스)'라고 한다.
+
+      이 키토시스 상태를 장기적으로 유지 또는 주기적으로 활용하는 식이요법이 '키토제닉'이다.
+
+
+
+키토제닉을 할 때 제한해야하는 음식은 아래와 같다.
+
+1. 정제된 설탕과 과당이 들어간 음식
+2. 국물과 곡물로 만든 음식
+3. 당분이 많은 과일
+4. 탄수화물이 많은 채소
+5. 식물성 지방과 트랜스 지방
+
+  ![방탄커피 아이콘](https://lh3.googleusercontent.com/nlcC5Mz0k3Zl1LUASotbN7WDd1kbYLNSmo1t3mvnVYZX4GtAoI6agO7bKmFY9tjQBUFgw98a3-3bo_bhXK-K-44WEw2uPmnF87pgvDQf7fE7_fMotFZTfKEGcN3pin5AqzjQOLmPhhtkRXmWBwYWCOgFr8gJW0mbdRhRUqoFd13mMnY8TN36skV0UyqPnorVAEW01oL0Ff15QHAXiVPKjz4kzrnIRb-pNA5xtIsuneocggJXA6z0Cx6ktsLlsGzrP4jjojlAsvwT0wILHibRN92wPWHkj-udOYTBzlmgtffC5xDC8GIGTB1ctXOnfZOil2kw4CHJqn03vVKfQKbuOhLIh6cx9mRZ6gTZTdN4CwYQDZ272w9ZyYIyiAKvymXREqRipiO_tTzgPLG3_CZR0Q0OuQ0qSx_Oej7-TjLbNxnUTsnRqCNP3PreQRa0pc4z8TIfdHzBjRBJfdqusxIWbW_EZG53FROEsGHhXBaT0xpqNoNJfF4AYODm7XcuERs4YQq1nWsWZBBpjtvo-sFPIRAnt_ts5fKlVnlaxzPcZZDFxCoRzB2z2qoohUwD3nJe9zU_wOWVnX35IU2gZl1aoVnVQpK5n_Lm2zhwPSVrIpdYW37SP188P-3WvDHFDJft95OgWQZTPPOcX7YK3Q31gDwsk2bg_g=w640-h426-no)
+
+
+
+반대로 키토제닉 할 때 마음껏 먹을수 있는 음식은 아래와 같다. 
+
+1. 모든 종류의 고기 
+2. 모든 생선과 해산물
+3. 우유를 제외한 모든 유제품과 계란 (당류가 들어간 요거트 제외)
+4. 땅 위에서 나는 초록빛 채소
+5. 다양한 지방
+6. 견과류
+7. 일부 과일 (아보카도 추천)
+
+![방탄커피 아이콘](https://lh3.googleusercontent.com/OEkWLgY5g_gphfFvSUaeDDu7M_Lc-R6fusVzPvFBSvt4I-fsanBH0w2JZvPg00h9W3aTtC3yenkkXTMJulpTTUlUve_9srQz1fah8WiJRpMcEGhPhtV7Vcl7JJTIEsQ1edrC7eGRvo2IyGwrhVZuXfirrR4wDCzYZgZuNR6vM1TZ3xvuxp7WIhY2CM3qR52bNB4ruCTeH1HWW9IMYmvnnLgvtVspBbcPsJ-gcaTlSsECu-klttDkgzKlQuXNfLBlJF5NXuH4m19k8MOWPAgVVSJ63pqQfVPNhhB-_ZrQxGtPy017nql0u9MrUv-aafbQBPi9KltN4mOXmad9UhFvBd1WHGMOscvqtgDGMzl6gQz_-NWbYfsLzl3NQDPeTa5JXbvqRcXBjVF-oE4W8TqQasBBk9qIj3FRsVOV0SehWW7guc84mXDveB7D-shPK0yVPHI7kckve-3VjRUhpoGQZPMuCd8gEU2Mn8-pHGsOcvP-KPascPNSC4v7gCTnd7zEgYXX1ogFsdDhGBxAvRGqgjA3yCzIQwHm_x0CRCT5XlKT2mDy6DaDzhkbQFlPPoiqgzIIiekoGzzp181onvNm1VH_DnK563zk4XHTCwQtDQwNItNBOgEklT5JTUDlweRxOJ2H_BcOi0tehXnAWzTwSDHl7h-tXw=w640-h426-no)
+
+
+
+위와 같이 지속적인 식단관리를 하여 철저한 제한식을 하는것이 키토제닉이다. 
+
+키토제닉은 사실상 탄수화물이 주로 먹는 한국인들에게는 어렵기도한 절제식으로, 약 2~3개월 정도의 텀으로
+
+하는것을 권장한다고 한다. 
+
+오늘은 방탄커피에 대한 과장광고 기사를 보기전 방탄커피가 무엇이고, 언제 먹는지에 대한 기본적인 개념을 
+
+위해서 설명한 부분이다. 
+
+
+
+다음시간에는 ''방탄커피 5kg 살 빠진다더니!! 충격!! 기사말''에 대한 
+
+진실을 알아 보고자 한다. 
+
