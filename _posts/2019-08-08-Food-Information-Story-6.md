@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 방탄커피가 무엇을 잘못했을까2?
+title: 식품 트렌드 이슈 (방탄커피2)
 date: 2019-08-08 10:30:00 +09:00
 author: "ssong"
 permalink: /Food-Information-Story5/
