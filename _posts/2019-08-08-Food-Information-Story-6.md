@@ -3,7 +3,7 @@ layout: post
 title: 식품 트렌드 이슈 (방탄커피2)
 date: 2019-08-08 10:30:00 +09:00
 author: "ssong"
-permalink: /Food-Information-Story5/
+permalink: /Food-Information-Story6/
 image:
   feature: bulletproof coffee.jpg
 categories:
