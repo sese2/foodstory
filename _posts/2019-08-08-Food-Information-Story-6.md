@@ -5,7 +5,7 @@ date: 2019-08-07 10:30:00 +09:00
 author: "ssong"
 permalink: /Food-Information-Story5/
 image:
-  feature: coffee.png
+  feature: coffee.jpg
 categories:
 - 식품 트렌드
 tags:
