@@ -3,7 +3,7 @@ layout: post
 title: 식품 트렌드 이슈 (방탄커피1)
 date: 2019-08-07 10:30:00 +09:00
 author: "ssong"
-permalink: /Food-Information-Story5/
+permalink: /ketogenic-diet-LCHE-bulletproof coffee/
 image:
   feature: coffee.jpg
 categories:
@@ -15,7 +15,7 @@ tags:
 - 키토제닉
 - 저탄고지
 - 트렌드 다이어트
-description: 식품 트렌드 이슈
+description: 방탄커피가 무엇이며, 무엇을 잘못했을까?. 방탄커피의 기초가 되는 키토제닉에 대해서 알아보자.
 ---
 
 ##  방탄커피가 무엇을 잘못했을까? (1) 

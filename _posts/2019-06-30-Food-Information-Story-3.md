@@ -3,7 +3,7 @@ layout: post
 title: 식품전공 이야기3
 date: 2019-07-19 10:30:00 +09:00
 author: "ssong"
-permalink: /Food-Information-Story3/
+permalink: /the-Department-of-Food-and-Nutrition-nutritionist/
 image:
   feature: nutritionist.png
 categories:
@@ -19,7 +19,7 @@ tags:
 - 외식경영학과
 - 대학 전공
 
-description: 식품전공자가 식품회사를 다니면서 겪는 일들과 그 밖의 식품관련 법률과 최신 뉴스에 관한 블로그 입니다.
+description: 식품영양학과는 무엇을 하며, 식품영양학과의 목표와 식품공학과 다른점은 무엇인지 알아보자.
 ---
 
 ##  식품영양학과는 무엇을 할까?
@@ -29,6 +29,8 @@ description: 식품전공자가 식품회사를 다니면서 겪는 일들과 �
 그저 식품이란걸 다룬다는 정도 뿐? 
 
 하지만, 식품영양학과 식품공학은 전혀 다른 내용을 배우고, 전혀 다른 길을 가게 된다. 
+
+* 식품영양은 내몸에 일어나는 변화를 배운다면, 식품공학은 식품을 어떻게 하면 더 맛있게 또는 새롭게 개발하는영역이 더 크다. (식품공학과에 대한 것은 다른 시리즈에서 다룰예정이다.)
 
 기본적으로 식품영양학과의 목표 대부분은 (학교에서 작성된 학과 목표와는 다를수있다.)
 

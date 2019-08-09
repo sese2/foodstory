@@ -3,7 +3,7 @@ layout: post
 title: 식품 트렌드 이슈 (방탄커피2)
 date: 2019-08-08 10:30:00 +09:00
 author: "ssong"
-permalink: /Food-Information-Story6/
+permalink: /ketogenic-diet-LCHE-bulletproof coffee-2/
 image:
   feature: bulletproof coffee.jpg
 categories:
@@ -16,7 +16,7 @@ tags:
 - 저탄고지
 - 트렌드 다이어트
 - 새로운 다이어트
-description: 식품 트렌드 이슈
+description: 방탄커피 과대광고는 무엇이 문제였으며, 어떤 내용이 보도되었는지 확인하며 과장된 기사에서 핵심이 무엇인지 알아보자. 
 ---
 
 ##  방탄커피가 무엇을 잘못했을까? (2) 

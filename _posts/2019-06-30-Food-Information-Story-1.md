@@ -3,7 +3,7 @@ layout: post
 title: 식품전공 이야기 
 date: 2019-06-30 10:30:00 +09:00
 author: "ssong"
-permalink: /food-information-story/
+permalink: /food-department-university/
 image:
   feature: university.jpg
 categories:
@@ -16,7 +16,7 @@ tags:
   - 외식상품학과
   - 대학 전공
 
-description: 식품전공자가 식품회사를 다니면서 겪는 일들과 그 밖의 식품관련 법률과 최신 뉴스에 관한 블로그 입니다.
+description: 식품학과에는 무엇이 있고, 어떤 방향으로 나아가면 좋을지 생각해보는 시간과 리스트를 체크해보자
 ---
 
 ## 식품학과에는 무엇이 있을까?
