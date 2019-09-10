@@ -122,9 +122,11 @@ src="https://www.facebook.com/tr?id=1389822227841141&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-
-
-
+<script>
+ fbq('track','viewContent',{
+		 content_title:"{{ page.title }}",
+ });
+</script>
 
 
 </head>
