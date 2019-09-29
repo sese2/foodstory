@@ -16,14 +16,16 @@ layout: default
 
 		{{ content }}
 
-		<script>
-		 fbq('track','viewContent',{
-				 content_title:"{{ page.title }}",
-		 });
-		</script>
-
-
 	</div>
 </article>
 
 {% include disqus.html %}
+
+
+<script>
+	dataLayer.push({
+			'event' : 'ViewContent',
+			'contentId' : '{{ page.cssontent_id }}',
+			'contentTitle' : '{{ page.title }}'
+	});
+</script>
