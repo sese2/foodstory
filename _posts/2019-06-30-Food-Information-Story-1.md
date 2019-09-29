@@ -3,6 +3,7 @@ layout: post
 title: 식품전공 이야기
 date: 2019-06-30 10:30:00 +09:00
 author: "ssong"
+content_id: 1
 permalink: /food-department-university/
 image:
   feature: university.jpg
